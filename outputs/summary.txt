@@ -1,0 +1,7 @@
+" customer_id" "   gender" "     age" "annual_income" "spending_score" " age_group" "income_normalized"
+"" "Min.   :  1.00  " "Length:198        " "Min.   :18.00  " "Min.   : 15.00  " "Min.   : 1.00  " "Length:198        " "Min.   :0.0000  "
+"" "1st Qu.: 50.25  " "Class :character  " "1st Qu.:28.25  " "1st Qu.: 40.50  " "1st Qu.:35.00  " "Class :character  " "1st Qu.:0.2297  "
+"" "Median : 99.50  " "Mode  :character  " "Median :36.00  " "Median : 61.00  " "Median :50.00  " "Mode  :character  " "Median :0.4144  "
+"" "Mean   : 99.50  " NA "Mean   :38.93  " "Mean   : 59.79  " "Mean   :50.20  " NA "Mean   :0.4035  "
+"" "3rd Qu.:148.75  " NA "3rd Qu.:49.00  " "3rd Qu.: 77.75  " "3rd Qu.:72.75  " NA "3rd Qu.:0.5653  "
+"" "Max.   :198.00  " NA "Max.   :70.00  " "Max.   :126.00  " "Max.   :99.00  " NA "Max.   :1.0000  "
